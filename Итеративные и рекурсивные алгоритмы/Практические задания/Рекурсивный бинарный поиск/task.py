@@ -1,6 +1,6 @@
 from typing import Sequence
 
-
+# на проверку
 def binary_search(
         value: int, seq: Sequence[int],
         left_border: int = 0, right_border: int = None
